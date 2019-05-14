@@ -2,13 +2,13 @@
 
 Tutorial on standard errors for risk and performance estimators.
 
-## Presentation Reference
+## Reference
 
 Below is a reference for the presentation on computing standard errors for risk and performance estimators using **PerformanceAnalytics**:
 
 [Presentation Reference](https://drive.google.com/open?id=1-F7bNve9vyEIi6csrf0jkaai7GrWjOVl)
 
-## Presentation R Script
+## Example R Script
 
 Below is an R script for the presentation on computing standard errors for risk and performance estimators using **PerformanceAnalytics**:
 

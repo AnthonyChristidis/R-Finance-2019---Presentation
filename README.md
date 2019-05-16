@@ -10,9 +10,8 @@ To use the software packages presented during the seminar, you will need the fol
 
 * Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
 
-* ```
-devtools::install_github("AnthonyChristidis/IFs")
-```
+* ```devtools::install_github("AnthonyChristidis/IFs")```
+
 ### The glmExpENRcpp Package
 
 * Repositorty Link: [*glmExpENRcpp*](https://github.com/AnthonyChristidis/glmExpENRcpp)

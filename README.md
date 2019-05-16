@@ -13,31 +13,31 @@ To test the software presented during the seminar, you will need to download the
 
 * Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
 
-* ```devtools::install_github("AnthonyChristidis/IFs")```
+* Download: ```devtools::install_github("AnthonyChristidis/IFs")```
 
 ### Package: *glmExpENRcpp* 
 
 * Repositorty Link: [*glmExpENRcpp*](https://github.com/AnthonyChristidis/glmExpENRcpp)
 
-* ```devtools::install_github("AnthonyChristidis/glmExpENRcpp")```
+* Download: ```devtools::install_github("AnthonyChristidis/glmExpENRcpp")```
 
 ### Package: *glmGammaENRcpp* 
 
 * Repositorty Link: [*glmGammaENRcpp*](https://github.com/AnthonyChristidis/glmGammaENRcpp)
 
-* ```devtools::install_github("AnthonyChristidis/glmGammaENRcpp")```
+* Download: ```devtools::install_github("AnthonyChristidis/glmGammaENRcpp")```
 
 ### Package: *RPESE* 
 
 * Repositorty Link: [*RPESE*](https://github.com/AnthonyChristidis/RPESE)
 
-* ```devtools::install_github("AnthonyChristidis/RPESE")```
+* Download: ```devtools::install_github("AnthonyChristidis/RPESE")```
 
 ### Package: *PerformanceAnalytics* 
 
 * Repositorty Link: [*PerformanceAnalytics*](https://github.com/AnthonyChristidis/PerformanceAnalytics)
 
-* ```devtools::install_github("AnthonyChristidis/PerformanceAnalytics")```
+* Download: ```devtools::install_github("AnthonyChristidis/PerformanceAnalytics")```
 
 ## Example R Script
 

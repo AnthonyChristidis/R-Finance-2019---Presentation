@@ -6,31 +6,31 @@ Tutorial on standard errors for risk and performance estimators.
 
 To test the software presented during the seminar, you will need to download the following packages available from my Github account:
 
-### The IFs Package
+### The *IFs* Package
 
 * Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
 
 * ```devtools::install_github("AnthonyChristidis/IFs")```
 
-### The glmExpENRcpp Package
+### The *glmExpENRcpp* Package
 
 * Repositorty Link: [*glmExpENRcpp*](https://github.com/AnthonyChristidis/glmExpENRcpp)
 
 * ```devtools::install_github("AnthonyChristidis/glmExpENRcpp")```
 
-### The glmGammaENRcpp Package
+### The *glmGammaENRcpp* Package
 
 * Repositorty Link: [*glmGammaENRcpp*](https://github.com/AnthonyChristidis/glmGammaENRcpp)
 
 * ```devtools::install_github("AnthonyChristidis/glmGammaENRcpp")```
 
-### The RPESE Package
+### The *RPESE* Package
 
 * Repositorty Link: [*RPESE*](https://github.com/AnthonyChristidis/RPESE)
 
 * ```devtools::install_github("AnthonyChristidis/RPESE")```
 
-### The PerformanceAnalytics Package
+### The *PerformanceAnalytics* Package
 
 * Repositorty Link: [*PerformanceAnalytics*](https://github.com/AnthonyChristidis/PerformanceAnalytics)
 

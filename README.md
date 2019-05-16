@@ -14,6 +14,38 @@ To use the software packages presented during the seminar, you will need the fol
 ```
 devtools::install_github("AnthonyChristidis/IFs")
 ```
+### The glmExpENRcpp Package
+
+* Repositorty Link: [*glmExpENRcpp*](https://github.com/AnthonyChristidis/glmExpENRcpp)
+
+* R code to download the package directly from Github: 
+```
+devtools::install_github("AnthonyChristidis/glmExpENRcpp")
+```
+### The glmGammaENRcpp Package
+
+* Repositorty Link: [*glmGammaENRcpp*](https://github.com/AnthonyChristidis/glmGammaENRcpp)
+
+* R code to download the package directly from Github: 
+```
+devtools::install_github("AnthonyChristidis/glmGammaENRcpp")
+```
+### The RPESE Package
+
+* Repositorty Link: [*RPESE*](https://github.com/AnthonyChristidis/RPESE)
+
+* R code to download the package directly from Github: 
+```
+devtools::install_github("AnthonyChristidis/RPESE")
+```
+### The PerformanceAnalytics Package
+
+* Repositorty Link: [*PerformanceAnalytics*](https://github.com/AnthonyChristidis/PerformanceAnalytics)
+
+* R code to download the package directly from Github: 
+```
+devtools::install_github("AnthonyChristidis/PerformanceAnalytics")
+```
 
 ## Reference
 

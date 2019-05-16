@@ -10,8 +10,7 @@ To use the software packages presented during the seminar, you will need the fol
 
 * Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
 
-* R code to download the package directly from Github: 
-```
+* ```
 devtools::install_github("AnthonyChristidis/IFs")
 ```
 ### The glmExpENRcpp Package

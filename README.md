@@ -4,7 +4,7 @@ Tutorial on standard errors for risk and performance estimators.
 
 ## Packages Download
 
-To use the software packages presented during the seminar, you will need the following packages available from my Github account:
+To test the software presented during the seminar, you will need to download the following packages available from my Github account:
 
 ### The IFs Package
 

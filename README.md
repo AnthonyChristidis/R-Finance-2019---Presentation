@@ -6,7 +6,7 @@ Tutorial on standard errors for risk and performance estimators.
 
 To test the software presented during the seminar, you will need to download the following packages available from my Github account:
 
-### Package: *IFs* Package
+### Package: *IFs* 
 
 * Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
 

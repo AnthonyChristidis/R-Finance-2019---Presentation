@@ -3,6 +3,9 @@
 Tutorial on standard errors for risk and performance estimators.
 
 ## Packages Download
+To download an R package from a Github repository, you will need to have the following package installed in R:
+
+* ```install.packages("devtools", dependencies = TRUE)```
 
 To test the software presented during the seminar, you will need to download the following packages available from my Github account:
 

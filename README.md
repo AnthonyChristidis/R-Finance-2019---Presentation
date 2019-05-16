@@ -2,6 +2,19 @@
 
 Tutorial on standard errors for risk and performance estimators.
 
+## Packages Download
+
+To use the software packages presented during the seminar, you will need the following packages available from my Github account:
+
+# The IFs Package
+
+* Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
+
+* R code to download the package directly from Github: 
+```
+devtools::install_github("AnthonyChristidis/IFs")
+```
+
 ## Reference
 
 Below is a reference for the presentation on computing standard errors for risk and performance estimators using **PerformanceAnalytics**:

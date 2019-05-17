@@ -43,11 +43,11 @@ To test the software presented during the seminar, you will need to download the
 
 Below is an R script for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
 
-[Example Script](https://drive.google.com/open?id=1Wk3YeVs5xS_Nr4rJIv9b-zsxdP55D6Vk)
+[Example Script](https://drive.google.com/open?id=1olNvrty6larJO1rrqdWGn-aYbrNMJGZg)
 
 
 ## Reference
 
 Below is a reference for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
 
-[Presentation Reference](https://drive.google.com/open?id=1-F7bNve9vyEIi6csrf0jkaai7GrWjOVl)
+[Presentation Reference](https://drive.google.com/open?id=1pubmjo4s_VXLFtuR9awlipxLpfts3Ms0)

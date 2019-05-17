@@ -55,3 +55,11 @@ Below is an R script for the presentation on computing standard errors for risk 
 Below is a reference for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
 
 [Presentation Reference](https://drive.google.com/open?id=1pubmjo4s_VXLFtuR9awlipxLpfts3Ms0)
+
+
+## Presentation Slides
+
+Below is are the slides used for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
+
+[Presentation Slides](https://drive.google.com/open?id=1q5NyBJJXX049kwixGHDVnwyLS33Yk3-E)
+

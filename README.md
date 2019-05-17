@@ -61,5 +61,5 @@ Below is a reference for the presentation on computing standard errors for risk 
 
 Below is are the slides used for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
 
-[Presentation Slides](https://drive.google.com/open?id=1q5NyBJJXX049kwixGHDVnwyLS33Yk3-E)
+[Presentation Slides](https://drive.google.com/open?id=1L0Hy3qcsbvfS5SbozEZdXdspeceD2t2a)
 

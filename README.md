@@ -2,7 +2,7 @@
 
 Tutorial on standard errors for risk and performance estimators.
 
-Presenters: 
+### Presenters: 
 * [Dr. Douglas Martin](https://amath.washington.edu/people/douglas-martin)
 * [Anthony-Alexander Christidis](https://www.stat.ubc.ca/users/anthony-christidis)
 

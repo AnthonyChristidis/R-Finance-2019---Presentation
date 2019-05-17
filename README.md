@@ -2,6 +2,10 @@
 
 Tutorial on standard errors for risk and performance estimators.
 
+Presenters: 
+* [Anthony Christidis](https://www.stat.ubc.ca/users/anthony-christidis) ([anthony.christidis@stat.ubc.ca](anthony.christidis@stat.ubc.ca))
+* [Dr. Douglas Martin](https://amath.washington.edu/people/douglas-martin)
+
 ## Packages Download
 To download an R package from a Github repository, you will need to have the following package installed in R:
 

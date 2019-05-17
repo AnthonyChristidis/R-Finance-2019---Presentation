@@ -3,7 +3,7 @@
 Tutorial on standard errors for risk and performance estimators.
 
 Presenters: 
-* [Anthony Christidis](https://www.stat.ubc.ca/users/anthony-christidis) ([anthony.christidis@stat.ubc.ca](anthony.christidis@stat.ubc.ca))
+* [Anthony Christidis](https://www.stat.ubc.ca/users/anthony-christidis)
 * [Dr. Douglas Martin](https://amath.washington.edu/people/douglas-martin)
 
 ## Packages Download

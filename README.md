@@ -13,23 +13,18 @@ To download an R package from a Github repository, you will need to have the fol
 
 To test the software presented during the seminar, you will need to download the following packages available from my Github account:
 
-### Package: *IFs* 
+### Package: *RPEIF* 
 
-* Repositorty Link: [*IFs*](https://github.com/AnthonyChristidis/IFs)
+* Repositorty Link: [RPEIF](https://github.com/AnthonyChristidis/RPEIF)
 
-* Download: ```devtools::install_github("AnthonyChristidis/IFs")```
+* Download: ```devtools::install_github("AnthonyChristidis/RPEIF")```
 
-### Package: *glmExpENRcpp* 
+### Package: *RPEGLMEN* 
 
-* Repositorty Link: [*glmExpENRcpp*](https://github.com/AnthonyChristidis/glmExpENRcpp)
+* Repositorty Link: [RPEGLMEN](https://github.com/AnthonyChristidis/RPEGLMEN)
 
-* Download: ```devtools::install_github("AnthonyChristidis/glmExpENRcpp")```
+* Download: ```devtools::install_github("AnthonyChristidis/RPEGLMEN")```
 
-### Package: *glmGammaENRcpp* 
-
-* Repositorty Link: [*glmGammaENRcpp*](https://github.com/AnthonyChristidis/glmGammaENRcpp)
-
-* Download: ```devtools::install_github("AnthonyChristidis/glmGammaENRcpp")```
 
 ### Package: *RPESE* 
 
@@ -48,13 +43,6 @@ To test the software presented during the seminar, you will need to download the
 Below is an R script for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
 
 [Example Script](https://drive.google.com/open?id=1olNvrty6larJO1rrqdWGn-aYbrNMJGZg)
-
-
-## Reference
-
-Below is a reference for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
-
-[Presentation Reference](https://drive.google.com/open?id=1pubmjo4s_VXLFtuR9awlipxLpfts3Ms0)
 
 
 ## Presentation Slides

@@ -38,16 +38,5 @@ To test the software presented during the seminar, you will need to download the
 
 * Download: ```devtools::install_github("AnthonyChristidis/PerformanceAnalytics")```
 
-## Example R Script
 
-Below is an R script for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
-
-[Example Script](https://drive.google.com/open?id=1olNvrty6larJO1rrqdWGn-aYbrNMJGZg)
-
-
-## Presentation Slides
-
-Below is are the slides used for the presentation on computing standard errors for risk and performance estimators using ***PerformanceAnalytics***:
-
-[Presentation Slides](https://drive.google.com/open?id=1qed04dJmN-rF0YwvzOPj-9KAnXmIld9y)
 
